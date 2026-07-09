@@ -2,6 +2,7 @@
 
 My daily Python practice
 
+## Day 1 – Variables and Basic Arithmetic
 ![Day 1 Output](day01_output.png)
 
 ## Day 2 – Even or Odd Program
