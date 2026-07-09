@@ -2,6 +2,8 @@
 
 My daily Python practice
 
+![Day 1 Output](day01_output.png)
+
 ## Day 2 – Even or Odd Program
 - Program: `day02.py`
 
