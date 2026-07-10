@@ -13,9 +13,5 @@ My daily Python practice
 ## Day 3 - Largest of Three Numbers
 
 - Program: `day03.py`
-
-![Day_3_Code](day03_code.png)
-
-### Output
-
+  
 ![Day_3_Output](day03_output.png)
