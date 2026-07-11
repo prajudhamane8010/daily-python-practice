@@ -15,3 +15,9 @@ My daily Python practice
 - Program: `day03.py`
   
 ![Day_3_Output](day03_output.png)
+
+## Day 4 - Prime Number Checker
+
+- Program: `day04.py`
+
+![Day_4_Output](day04_output.png)
