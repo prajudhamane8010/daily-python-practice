@@ -21,3 +21,9 @@ My daily Python practice
 - Program: `day04.py`
 
 ![Day_4_Output](day04_output.png)
+
+## Day 5 - Armstrong Number Checker
+
+- **Program:** `day05.py`
+
+![Day_5_Output](day05_output.png)
