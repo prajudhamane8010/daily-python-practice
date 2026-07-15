@@ -27,3 +27,9 @@ My daily Python practice
 - **Program:** `day05.py`
 
 ![Day_5_Output](day05_output.png)
+
+## Day 6 - Fibonacci Series
+
+- **Program:** `day06.py`
+- 
+![Day_6_Output](day06_output.png)
