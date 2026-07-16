@@ -33,3 +33,9 @@ My daily Python practice
 - **Program:** `day06.py`
 - 
 ![Day_6_Output](day06_output.png)
+
+## Day 7 - Prime Number Check
+
+- Program: `day07.py`
+  
+![Day 7 Output](day07_output.png)
