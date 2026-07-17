@@ -39,3 +39,11 @@ My daily Python practice
 - Program: `day07.py`
   
 ![Day 7 Output](day07_output.png)
+
+## Day 8 - Palindrome Number Check
+
+- Program: `day08.py`
+  
+### Output
+
+![Day 8 Output](day08_output.png)
