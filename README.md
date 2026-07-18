@@ -47,3 +47,11 @@ My daily Python practice
 ### Output
 
 ![Day 8 Output](day08_output.png)
+
+## Day 9 - Armstrong Number Check
+
+- Program: `day09.py`
+  
+### Output
+
+![Day 9 Output](day09_output.png)
