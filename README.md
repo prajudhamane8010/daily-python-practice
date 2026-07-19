@@ -55,3 +55,11 @@ My daily Python practice
 ### Output
 
 ![Day 9 Output](day09_output.png)
+
+## Day 10 - Factorial of a Number
+
+- Program: `day10.py`
+
+### Output
+
+![Day 10 Output](day10_output.png)
