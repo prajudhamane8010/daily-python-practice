@@ -70,3 +70,10 @@ My daily Python practice
 ### Output
 
 ![Day 11 Output](day11_output.png)
+
+## Day 12 - Count Vowels in a String
+
+- Program: `day12.py`
+### Output
+
+![Day 12 Output](day12_output.png)
