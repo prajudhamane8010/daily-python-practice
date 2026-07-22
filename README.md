@@ -77,3 +77,11 @@ My daily Python practice
 ### Output
 
 ![Day 12 Output](day12_output.png)
+
+## Day 13 - Check if Two Strings are Anagrams
+
+- Program: `day13.py`
+
+### Output
+
+![Day 13 Output](day13_output.png)
