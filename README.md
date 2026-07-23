@@ -85,3 +85,11 @@ My daily Python practice
 ### Output
 
 ![Day 13 Output](day13_output.png)
+
+## Day 14 - Find the Largest Number in a List
+
+- Program: `day14.py`
+
+### Output
+
+![Day 14 Output](day14_output.png)
