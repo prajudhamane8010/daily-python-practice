@@ -98,9 +98,6 @@ My daily Python practice
 
 - Program: `day15.py`
 
-### 📖 Description
-This program demonstrates the basic operations of Python dictionaries, including creating a dictionary, accessing values, adding new key-value pairs, updating values, deleting keys, and iterating through dictionary items.
-
 ### 📷 Output
 
 ![Day 15 Output](day15_output.png)
