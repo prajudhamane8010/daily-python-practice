@@ -101,3 +101,11 @@ My daily Python practice
 ### 📷 Output
 
 ![Day 15 Output](day15_output.png)
+
+## Day 16 - Functions in Python
+
+- Program: `day16.py`
+
+### 📷 Output
+
+![Day 16 Output](day16_output.png)
