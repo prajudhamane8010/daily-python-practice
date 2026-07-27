@@ -109,3 +109,11 @@ My daily Python practice
 ### 📷 Output
 
 ![Day 16 Output](day16_output.png)
+
+## Day 17 - List Comprehension
+
+- **Program:** `day17.py`
+
+### 📸 Output
+
+![Day 17 Output](day17_output.png)
