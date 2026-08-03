@@ -117,3 +117,12 @@ My daily Python practice
 ### 📸 Output
 
 ![Day 17 Output](day17_output.png)
+
+## Day 18 - Tuples in Python
+
+- **Program:** `day18.py`
+
+### 📸 Output
+
+![Day 18 Output](day18_output.png)
+
