@@ -126,3 +126,11 @@ My daily Python practice
 
 ![Day 18 Output](day18_output.png)
 
+## Day 19 - Password Generator
+
+- **Program:** `day19.py`
+
+### 📸 Output
+
+![Day 19 Output](day19_output.png)
+
