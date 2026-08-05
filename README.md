@@ -134,3 +134,18 @@ My daily Python practice
 
 ![Day 19 Output](day19_output.png)
 
+## Day 20 - Student Grade Calculator
+
+- **Program:** `day20.py`
+
+### 📷 Output
+
+![Day 20 Output](day20_output.png)
+
+### 💡 Skills Learned
+
+- User Input
+- Arithmetic Operations
+- Conditional Statements (`if-elif-else`)
+- Variables
+- Percentage Calculation
