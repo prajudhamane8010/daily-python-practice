@@ -149,3 +149,12 @@ My daily Python practice
 - Conditional Statements (`if-elif-else`)
 - Variables
 - Percentage Calculation
+
+## Day 21 - Simple Calculator
+
+- **Program:** `day21.py`
+
+### 📷 Output
+
+![Day 21 Output](day21_output.png)
+
