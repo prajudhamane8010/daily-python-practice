@@ -158,3 +158,18 @@ My daily Python practice
 
 ![Day 21 Output](day21_output.png)
 
+## Day 22 - Contact Book
+ **Program:** `day22.py`
+
+
+### 📷 Output
+
+![Day 22 Output](day22_output.png)
+
+### 💡 Skills Learned
+- Dictionaries
+- Functions
+- Loops
+- Conditional Statements
+- CRUD Operations
+
