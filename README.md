@@ -173,3 +173,10 @@ My daily Python practice
 - Conditional Statements
 - CRUD Operations
 
+  ## Day 23 - File Handling
+ **Program:** `day23.py`
+
+### 📷 Output
+
+![Day 23 Output](day23_output.png)
+
